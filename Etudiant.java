@@ -9,6 +9,16 @@ public class Etudiant{
 		
 	}
 
+	public String getNom(){
+
+		return this.nom;
+	}
+
+	public String getPrenom(){
+
+		return this.getPrenom;
+	}
+
 
 
 
