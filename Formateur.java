@@ -8,6 +8,11 @@ public class Formateur{
 	public Formateur(){
 		
 	}
+	public Formateur(String nom, String prenom){
+		this.nom=nom;
+		this.prenom=prenom;
+		
+	}
 
 	//Accesseurs et propriete
 
