@@ -26,6 +26,33 @@ public class Formateur{
 		return this.email;
 	}
 
+	public voit getAnneExperience(){
+
+		return this.anneExperience;
+	}
+	//Modificateur des propriete
+	public void setNom(String nom){
+
+		this.nom=nom;
+
+	}
+	public void setPrenom(String prenom){
+
+		this.prenom=prenom;
+
+	}
+	public void setEmail(String email){
+
+		this.email=email;
+
+	}
+	public int setAnneExperience(int a){
+
+		this.anneExperience=anneExperience;
+
+	}
+
+
 
 
 
