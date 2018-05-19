@@ -12,6 +12,10 @@ public class Etudiant{
 		this.nom=nom;
 		this.prenom=prenom;
 	}
+	public Etudiant(String nom){
+		this.nom=nom;
+		
+	}
 
 
 	public String getNom(){
